@@ -106,3 +106,4 @@ venv.bak/
 # local
 .env
 entrust/
+*.bmp
